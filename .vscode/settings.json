@@ -1,0 +1,24 @@
+{
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "editor.suggest.localityBonus": true,
+    "editor.suggest.preview": true,
+    "workbench.commandPalette.experimental.suggestCommands": true,
+    "workbench.commandPalette.preserveInput": true,
+    "workbench.experimental.share.enabled": true,
+    "workbench.experimental.cloudChanges.partialMatches.enabled": true,
+    "workbench.list.horizontalScrolling": true,
+    "workbench.list.scrollByPage": true,
+    "workbench.list.smoothScrolling": true,
+    "scm.alwaysShowRepositories": true,
+    "scm.alwaysShowActions": true,
+    "scm.diffDecorationsGutterPattern": {
+        "added": true
+    },
+    "testing.automaticallyOpenPeekViewDuringAutoRun": true,
+    "testing.alwaysRevealTestOnStateChange": true,
+    "terminal.integrated.accessibleViewPreserveCursorPosition": true,
+    "terminal.integrated.accessibleViewFocusOnCommandExecution": true,
+    "terminal.integrated.allowMnemonics": true,
+    "timeline.pageOnScroll": true,
+    "notebook.consolidatedRunButton": true
+}
